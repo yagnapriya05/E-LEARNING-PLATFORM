@@ -28,4 +28,5 @@ Progress Tracking: Tracks which courses the user has completed and stores the in
 
 output:
 ![Image](https://github.com/user-attachments/assets/b5f8cc7e-d469-422a-af1a-5764cbd4c01a)
+![Image](https://github.com/user-attachments/assets/5e90c209-d45f-4ef5-9c0a-d2b38e587503)
 
