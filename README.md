@@ -26,3 +26,6 @@ Sidebar Navigation: Lists course categories for easy access.
 Embedded Video Playback: Supports local .mp4 video playback using the HTML5 <video> element, without relying on YouTube or external platforms.
 Progress Tracking: Tracks which courses the user has completed and stores the information locally in the browser.
 
+output:
+![Image](https://github.com/user-attachments/assets/b5f8cc7e-d469-422a-af1a-5764cbd4c01a)
+
